@@ -35,8 +35,8 @@ It ensures secure and standardized electronic invoice submission, making the sys
 - **Google Maps API integration**: Displays store distance from the user’s location.  
 - **One-click navigation**: Directly redirects to Google Maps for route planning.  
 
-<img width="508" height="244" alt="image" src="https://github.com/user-attachments/assets/af2c6cc3-566e-4365-8757-3666c3afd9ac" />
-
+<p align="center"><img width="508" height="244" alt="image" src="https://github.com/user-attachments/assets/af2c6cc3-566e-4365-8757-3666c3afd9ac" />
+</p>
 ---
 
 ### 3. Store Product Page
@@ -44,40 +44,45 @@ It ensures secure and standardized electronic invoice submission, making the sys
 - **Multi-layer options**: e.g., drinks require choices for sugar, ice, and size, with all possible combinations supported.  
 - **Relational database design**: Ensures product, options, pricing, and inventory remain consistent and flexible.  
 
-<img width="528" height="255" alt="image" src="https://github.com/user-attachments/assets/95fdbcef-2663-44e2-86bb-031aea45bf95" />
 
+<p align="center"><img width="528" height="255" alt="image" src="https://github.com/user-attachments/assets/95fdbcef-2663-44e2-86bb-031aea45bf95" />
+</p>
 ---
 
 ### 4. Checkout & Payment
 - **Order modes**: Dine-in, takeaway, or reservation (with time setting).  
 - **Payment**: Integrated with **Taiwan Pay** for secure transfers.  
 
-<img width="496" height="238" alt="image" src="https://github.com/user-attachments/assets/3bbc11c7-d43a-4a07-ae34-2dc2fbc63b8c" />
 
+<p align="center"><img width="496" height="238" alt="image" src="https://github.com/user-attachments/assets/3bbc11c7-d43a-4a07-ae34-2dc2fbc63b8c" />
+</p>
 ---
 
 ### 5. Store Management (Vendor Side)
 - **Multi-store management**: A single vendor can register and manage multiple branches.  
 - **Unified Business Number validation**: Vendors must provide company ID to comply with regulations.  
 
-<img width="518" height="249" alt="image" src="https://github.com/user-attachments/assets/90af8644-b559-4cf6-86e7-f932ff2a0684" />
 
+<p align="center"><img width="518" height="249" alt="image" src="https://github.com/user-attachments/assets/90af8644-b559-4cf6-86e7-f932ff2a0684" />
+</p>
 ---
 
 ### 6. Backend Order System
 - **Real-time notifications**: Implemented with **Ajax** to instantly push orders to vendors.  
 - **Future plan**: Replace Ajax with **WebSocket** for improved real-time performance.  
 
-<img width="527" height="253" alt="image" src="https://github.com/user-attachments/assets/fdfd8801-2f55-467e-9803-9e7128f4ae13" />
 
+<p align="center"><img width="527" height="253" alt="image" src="https://github.com/user-attachments/assets/fdfd8801-2f55-467e-9803-9e7128f4ae13" />
+</p>
 ---
 
 ### 7. Backend Revenue System
 - **Revenue analysis**: Tracks completed orders and displays revenue and item counts by date/time.  
 - **Data visualization**: Provides graphical reports for quick insights.  
 
-<img width="518" height="249" alt="image" src="https://github.com/user-attachments/assets/dbc1d983-f0ca-47ff-8279-12316a59eec1" />
 
+<p align="center"><img width="518" height="249" alt="image" src="https://github.com/user-attachments/assets/dbc1d983-f0ca-47ff-8279-12316a59eec1" />
+</p>
 ---
 
 ## ⚙️ Technical Highlights
