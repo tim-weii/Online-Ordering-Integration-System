@@ -15,10 +15,10 @@ The goal was to create a **cost-effective and integrated online ordering system*
 The system includes **User Module, Vendor Module, and Backend Management Module**, supporting multi-store operations and real-time data flow.  
 
 
-#### EINVTurnkey
-EINVTurnkey is the **official e-Invoice transmission software provided by Taiwan’s Ministry of Finance (MOF)**.  
-It ensures secure and standardized electronic invoice submission, making the system compliant with Taiwan’s taxation and e-invoice regulations.
----
+### 📄 EINV Turnkey / 電子發票傳輸軟體
+- **EN:** Official e-Invoice transmission software by Taiwan’s MOF; ensures secure, standards-compliant submission.  
+- **中:** 台灣財政部提供的**官方電子發票傳輸軟體**，用於安全、標準化上傳電子發票，符合法規。  
+**Official site / 官方網站：** https://www.einvoice.nat.gov.tw/ptl007w/1692234547071
 
 ##  System Modules
 
