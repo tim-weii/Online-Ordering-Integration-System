@@ -9,11 +9,15 @@ These “flashy but impractical” systems increased expenses without truly redu
 ---
 
 ##  Project Overview
-This project was developed with **PHP, MySQL, MongoDB, and JavaScript**, integrated with **Google Maps API, Taiwan Pay, and EINV Turnkey (Taiwan Ministry of Finance e-Invoice Transmission Software)**.  
+This project was developed with **PHP, MySQL, MongoDB, and JavaScript**, integrated with **Google Maps API, Taiwan Pay, and ENIVTurnkey (Taiwan Ministry of Finance e-Invoice Transmission Software)**.  
 The goal was to create a **cost-effective and integrated online ordering system** that reduces reliance on manpower while providing a unified management platform for multiple restaurants.  
 
 The system includes **User Module, Vendor Module, and Backend Management Module**, supporting multi-store operations and real-time data flow.  
 
+
+#### EINVTurnkey
+EINVTurnkey is the **official e-Invoice transmission software provided by Taiwan’s Ministry of Finance (MOF)**.  
+It ensures secure and standardized electronic invoice submission, making the system compliant with Taiwan’s taxation and e-invoice regulations.
 ---
 
 ##  System Modules
