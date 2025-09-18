@@ -27,8 +27,9 @@ It ensures secure and standardized electronic invoice submission, making the sys
 - **Separate MySQL tables** for users and vendors.  
 - Supports account registration, login, and permission management.  
 
-<img width="525" height="253" alt="image" src="https://github.com/user-attachments/assets/9382003b-5b4e-4a77-8b07-f54ebded0d72" />
 
+<p align="center"><img width="525" height="253" alt="image" src="https://github.com/user-attachments/assets/9382003b-5b4e-4a77-8b07-f54ebded0d72" />
+</p>
 ---
 
 ### 2. Ordering Homepage
