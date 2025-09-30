@@ -1,5 +1,12 @@
 #  Online Ordering & Integration System
 
+[![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?logo=php&logoColor=white)](https://www.php.net/) 
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)](https://www.mysql.com/) 
+[![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
+[![Google Maps API](https://img.shields.io/badge/Google%20Maps-API-4285F4?logo=googlemaps&logoColor=white)](https://developers.google.com/maps) 
+[![Stripe](https://img.shields.io/badge/Stripe-Payment-008CDD?logo=stripe&logoColor=white)](https://stripe.com/) 
+[![EINV Turnkey](https://img.shields.io/badge/EINV-Turnkey-darkgreen?logo=gov&logoColor=white)](https://einvoice.nat.gov.tw/) 
+
 ##  Project Background
 During Taiwan’s labor shortage in the service industry, many restaurants faced severe staffing challenges, creating high demand for **self-service ordering and payment systems**.  
 However, most commercial solutions at the time adopted a **high-cost leasing model** (tens of thousands of NT dollars annually), while systems were isolated and **unable to integrate operations across multiple restaurants**.  
